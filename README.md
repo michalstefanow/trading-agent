@@ -26,7 +26,7 @@ An AI-powered trading bot for Bitcoin that uses technical analysis and machine l
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/trading-agent.git
+git clone https://github.com/michalstefanow/trading-agent.git
 cd trading-agent
 ```
 
@@ -193,3 +193,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS. #
+
