@@ -186,6 +186,10 @@ The bot implements several trading strategies:
 4. Push to the branch
 5. Create a Pull Request
 
+## Contributing
+
+Contact via Telegram - [michalstefanow](https://t.me/mylord1_1)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -193,4 +197,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS. #
+
 
