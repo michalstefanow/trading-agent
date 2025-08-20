@@ -10,6 +10,11 @@ This project demonstrates the integration with Heaven DEX for:
 - **IPFS Metadata Management** using Pinata for decentralized storage
 - **Address Lookup Table (LUT)** resolution for optimized transactions
 
+<img width="1039" height="835" alt="heaven1" src="https://github.com/user-attachments/assets/2b99edfa-bfff-4fe9-9b2b-12d87ffebd1f" />
+<img width="1679" height="813" alt="heaven2" src="https://github.com/user-attachments/assets/38557d9a-a0ac-4e2c-af98-ab7cfd2b3e46" />
+<img width="1126" height="812" alt="heaven3" src="https://github.com/user-attachments/assets/7e6b3684-ec0a-44c7-8150-a0e15268e379" />
+<img width="1144" height="819" alt="heaven4" src="https://github.com/user-attachments/assets/629ebc9b-9cc8-49d0-96c9-e63ecac5dcda" />
+
 ## 🏗️ Architecture
 
 ```
@@ -30,64 +35,6 @@ Heaven-Dex-Token-Launchpad/
 - **⚡ Solana Optimization**: LUT resolution for transaction efficiency
 - **🔒 Type Safety**: Full TypeScript implementation
 - **📱 Multi-Platform**: Support for both local and remote assets
-
-## 🛠️ Tech Stack
-
-- **Blockchain**: Solana
-- **DEX Protocol**: Heaven DEX
-- **Storage**: IPFS (Pinata)
-- **Language**: TypeScript
-- **Runtime**: Node.js
-- **Key Libraries**: 
-  - `@solana/web3.js` - Solana blockchain interaction
-  - `@coral-xyz/anchor` - Solana program framework
-  - `dotenv` - Environment configuration
-
-## 📋 Prerequisites
-
-- Node.js >= 16.0.0
-- Solana CLI tools
-- Pinata API keys
-- Solana RPC endpoint access
-
-## ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/michalstefanow/Solana-Token-Launchpad-Heaven-Dex.git
-cd Solana-Token-Launchpad-Heaven-Dex
-
-# Install dependencies
-npm install
-
-# Configure environment variables
-cp .env.example .env
-```
-
-## 🔧 Configuration
-
-Create a `.env` file with your credentials:
-
-```env
-RPC_ENDPOINT_HELIUS=https://mainnet.helius-rpc.com/?api-key=YOUR_API_KEY
-RPC_ENDPOINT=https://your-rpc-endpoint.com
-NEXT_PUBLIC_PINATA_API_KEY=your_pinata_api_key
-NEXT_PUBLIC_PINATA_SECRET_API_KEY=your_pinata_secret_key
-PRIVATE_KEY=your_solana_private_key
-```
-
-## 🚀 Usage
-
-```bash
-# Run the token lifecycle demo
-npm start
-
-# Build TypeScript
-npm run build
-
-# Run tests
-npm test
-```
 
 ## 📁 Project Structure
 
@@ -141,13 +88,6 @@ This project is licensed under the MIT License.
 - **Twitter**: [@michalstefanow](https://twitter.com/michalstefanow)
 - **Telegram**: [@michalstefanow](https://t.me/mylord1_1)
 
-## 🔗 Links
 
-- [Heaven DEX](https://heaven.xyz)
-- [Solana Documentation](https://docs.solana.com)
-- [Pinata IPFS](https://pinata.cloud)
 
----
-
-**Disclaimer**: This is a demonstration project. Always test thoroughly on devnet before mainnet deployment.
 
