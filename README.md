@@ -10,10 +10,11 @@ This project demonstrates the integration with Heaven DEX for:
 - **IPFS Metadata Management** using Pinata for decentralized storage
 - **Address Lookup Table (LUT)** resolution for optimized transactions
 
-<img width="1039" height="835" alt="heaven1" src="https://github.com/user-attachments/assets/2b99edfa-bfff-4fe9-9b2b-12d87ffebd1f" />
-<img width="1679" height="813" alt="heaven2" src="https://github.com/user-attachments/assets/38557d9a-a0ac-4e2c-af98-ab7cfd2b3e46" />
-<img width="1126" height="812" alt="heaven3" src="https://github.com/user-attachments/assets/7e6b3684-ec0a-44c7-8150-a0e15268e379" />
-<img width="1144" height="819" alt="heaven4" src="https://github.com/user-attachments/assets/629ebc9b-9cc8-49d0-96c9-e63ecac5dcda" />
+[Buy / Sell Transaction with idl](https://solscan.io/tx/5dzu8GmeEpEbX2fMUhAUGGJyxuxifQP27skvuVJhxcitP34sxsmGwEdyoYG6ukZyo2xXYrHd1vGLCpRhnPhT2ZSW)
+
+<img width="720" height="586" alt="image" src="https://github.com/user-attachments/assets/17d9c960-a2de-4962-beb2-ad1322c26b32" />
+<img width="720" height="616" alt="image" src="https://github.com/user-attachments/assets/fa39ef90-b380-442b-8100-ef23c392fd17" />
+
 
 ## 🏗️ Architecture
 
@@ -87,6 +88,7 @@ This project is licensed under the MIT License.
 
 - **Twitter**: [@michalstefanow](https://twitter.com/michalstefanow)
 - **Telegram**: [@michalstefanow](https://t.me/mylord1_1)
+
 
 
 
